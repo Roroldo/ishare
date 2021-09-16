@@ -1,0 +1,31 @@
+.course_msg_title{
+    border: 1px solid #eeeeee;
+    background-color: #eeeeee;
+    text-align: center;
+    margin: 15px;
+}
+
+.search_title{
+    font-size: 16px;
+}
+
+.course_msg{
+    border: solid 1px whitesmoke;
+    margin: 15px;
+    height: 120px;
+    width: auto;
+}
+
+.course_title{
+    font-size: 18px;
+}
+
+.course_detail{
+    margin-top: 6px;
+    color: darkgrey;
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+}

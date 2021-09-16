@@ -1,0 +1,32 @@
+.detail_row{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.course_tips{
+    color: red;
+    font-size: 15px;
+    margin-top: 100px;
+}
+
+p{
+    color: darkorange;
+    font-size: 10px;
+}
+
+/*收藏前按钮样式*/
+.collect a{
+    font-size: 10px;
+    background-color: #ff4848;
+    color: #fff;
+    padding: 8px;
+    margin-top: 15px;
+    /*设置游标样式*/
+    cursor: pointer;
+}
+
+/*收藏后按钮样式*/
+.collect .already{
+    background: #ccc;
+}
+

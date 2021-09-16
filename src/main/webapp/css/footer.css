@@ -1,0 +1,17 @@
+.footer_text{
+    color: red;
+    font-size: 12px;
+}
+
+.small_text{
+    color: #666666;
+    size: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    margin: 3px;
+}

@@ -1,0 +1,23 @@
+/*使页脚固定在底端，并且不遮挡内容*/
+html,body{
+    height: 100%;
+}
+
+.wrap{
+    min-height: 100%;
+}
+
+#footer{
+    /*页面不够时，上浮*/
+    margin-top: -10px;
+    height: 20px;
+}
+
+#main{
+    padding-bottom: 40px;
+    overflow: hidden;
+}
+
+*{
+    box-sizing: border-box;
+}
