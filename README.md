@@ -48,7 +48,7 @@ ishare 是一个计算机课程资源分享网站。用户在通过邮箱注册�
 
 7. 管理上传课程：
 
-    <img src="C:\Users\落霞不孤\AppData\Roaming\Typora\typora-user-images\image-20210901153437391.png" alt="image-20210901153437391" style="zoom: 67%;" />8
+    <img src="https://gitee.com/Roroldo/ImgRepo/raw/master/image-20210901153437391.png" alt="image-20210901153437391" style="zoom: 67%;" />
 
 8. 留言板
 
